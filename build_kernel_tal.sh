@@ -35,7 +35,7 @@ export UPDATER_TEMPLATE=${KERNELDIR}/../releases/tempdir
 export UPDATER_TMP=/tmp/tempdir
  
 # Target Configs ...
-export DREAM_DEFCONF=agat_defconfig
+export DREAM_DEFCONF=jf_defconfig
 export ARCH_CONF=jf_spr_defconfig
 export SELINUX_CONF=jfselinux_defconfig
 export SELINUX_LOGCONF=jfselinux_log_defconfig
